@@ -13,9 +13,12 @@
 <br>
 
 ### ส่วนรูปนี้นะครับ จะเป็นในส่วนของ Class Book ที่ประกาศ public class การทำงานจะเป็นการที่จะมีไฟล์ BookTest ประกาศใช้ตัว public class Book 
+
 <img width="990" height="622" alt="image" src="https://github.com/user-attachments/assets/bc6c0939-3a7f-45c0-b092-227aef3b7d9a" />
 <br>
+
 ### ส่วนด้านนี้ จะเป็นทางด้านของ BookTest นะครับ เป็น Code ที่ทดสอบการทดสอบของการยืมหนังสือครับ
+
 <img width="982" height="544" alt="image" src="https://github.com/user-attachments/assets/94e05ec3-8a55-477d-a7ca-7c50f2e7cd3e" />
 <br>
 <img width="708" height="565" alt="image" src="https://github.com/user-attachments/assets/3ec85d0c-231c-4bdf-a75d-85952943804b" />
